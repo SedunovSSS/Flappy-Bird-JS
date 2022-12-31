@@ -1,0 +1,27 @@
+.game{
+    width: 440px;
+    height: 200px;
+    margin: auto;
+    width: 15%;
+    margin-top: 160px;
+}
+
+h1{
+    color: cyan;
+    font-size: 36px;
+}
+
+body{
+    background-color: black;
+}
+
+#button{
+  width: 200px;
+  height: 30px;
+  color: black;
+  background-color: cyan;
+  text-align: center;
+  line-height: 20px;
+  display: block;
+  border-radius: 20px;
+}
